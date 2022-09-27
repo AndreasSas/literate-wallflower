@@ -1,7 +1,7 @@
 # literate-wallflower
 A simple project where I try to make the same applications in various programming languages
 
-## Planned lanuguages
+## Planned languages
 - BASIC
 - C
 - C++
