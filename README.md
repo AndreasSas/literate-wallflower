@@ -9,6 +9,7 @@ A simple project where I try to make the same applications in various programmin
 - Cobol
 - Curl
 - Elixir 
+- Figma
 - Fortran
 - Go
 - Haskell
@@ -26,3 +27,4 @@ A simple project where I try to make the same applications in various programmin
 - [Python](https://www.python.org/)
 - [V](https://vlang.io/)
 - Visual Basic
+- Zig
